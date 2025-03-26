@@ -55,7 +55,11 @@ Data Storage: In-memory rules, file-based historical storage (moving towards DB)
 Frontend: Steamlit, Interactive UI for rule training, updates, and transaction analysis
 
 ## 🚧 Challenges We Faced
-Describe the major technical or non-technical challenges your team encountered.
+- Transitioning from manual to automated rule extraction
+
+- Ensuring accurate anomaly detection with limited initial datasets
+
+- Building a unified portal for seamless rule training and transaction validation
 
 ## 🏃 How to Run
 1. Clone the repository  
