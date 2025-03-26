@@ -1,4 +1,4 @@
-# 🚀 Project Name
+# 🚀 Interstellar Agents - GenAI Base Data Profiling
 
 ## 📌 Table of Contents
 - [Introduction](#introduction)
@@ -14,7 +14,7 @@
 ---
 
 ## 🎯 Introduction
-A brief overview of your project and its purpose. Mention which problem statement are your attempting to solve. Keep it concise and engaging.
+This project aims to enhance data profiling using Generative AI by automating rule extraction, refining data validation, and improving compliance checks. The goal is to transition from manual rule extraction to an LLM-powered automated solution.
 
 ## 🎥 Demo
 🔗 [Live Demo](#) (if applicable)  
@@ -24,13 +24,35 @@ A brief overview of your project and its purpose. Mention which problem statemen
 ![Screenshot 1](link-to-image)
 
 ## 💡 Inspiration
-What inspired you to create this project? Describe the problem you're solving.
+Manual rule extraction and validation are time-consuming and error-prone. We wanted to leverage GenAI to create an intelligent, automated data profiling system that enhances accuracy, efficiency, and scalability.
+
+
+
+🛠️ How We Built It
+
+LLM Integration: OpenAI models
+
+Data Storage: In-memory rules, file-based historical storage (moving towards DB)
+
+Frontend: Interactive UI for rule training, updates, and transaction analysis
 
 ## ⚙️ What It Does
-Explain the key features and functionalities of your project.
+Automates Rule Extraction – Moves from CSV-based manual rules to LLM-driven refinement
+
+Refines Data Validation – Uses OpenAI models & Python to enhance rule precision
+
+Interactive Compliance Portal – Provides a UI for transaction analysis & compliance checks
+
+Anomaly Detection – Detects inconsistencies using historical data and logical validation
 
 ## 🛠️ How We Built It
-Briefly outline the technologies, frameworks, and tools used in development.
+Backend: Python
+
+LLM Integration: OpenAI models O1
+
+Data Storage: In-memory rules, file-based historical storage (moving towards DB)
+
+Frontend: Steamlit, Interactive UI for rule training, updates, and transaction analysis
 
 ## 🚧 Challenges We Faced
 Describe the major technical or non-technical challenges your team encountered.
