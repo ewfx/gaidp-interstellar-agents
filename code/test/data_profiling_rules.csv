@@ -1,0 +1,18 @@
+Field Name,Rule
+Account_Balance,Report the current outstanding balance of the customer's account. This should reflect the most recent financial position and exclude any pending transactions or adjustments not yet posted.
+Transaction_Amount,Report the amount associated with a single financial transaction. It should be recorded in the transaction’s original currency and must align with internal ledger entries.
+Reported_Amount,Report the amount submitted or disclosed for regulatory or financial reporting purposes. Ensure consistency with accounting and risk systems.
+Currency,"Report the 3-letter ISO currency code in which the transaction or amount is denominated (e.g., USD, INR). Ensure standardization across all datasets."
+Country,"Report the 2-letter ISO country code representing the customer's legal domicile or the jurisdiction of the transaction, as applicable."
+Transaction_Date,Report the date on which the transaction occurred. Use the standard YYYY-MM-DD format and ensure alignment with system timestamps.
+Risk_Score,Report the numerical or categorical value indicating the obligor’s risk level as calculated by the internal risk model. The model used should comply with internal and regulatory standards.
+Deal_ID,Report the unique internal identifier assigned to a specific financial deal or contract. It must be consistent across systems and time.
+Facility_ID,"Report the unique internal identifier of the facility extended to the borrower. Facilities include lines of credit, loans, or other credit arrangements."
+Borrower_ID,Report the unique internal identifier for the individual borrower under the deal. Must be consistently used across systems to track exposure.
+Obligor_Name,Report the legal name of the obligor responsible for repayment. This must reflect the most up-to-date legal name used in internal and legal documentation.
+Internal_Deal_ID,Report the unique internal code that tracks the deal within internal systems. This ID should map directly to system-of-record entries.
+Internal_Facility_ID,Report the internal system identifier for the facility as maintained in the lending or credit management system.
+Internal_Borrower_ID,Report the internal system identifier that uniquely tracks the borrower across systems. This should not be reused or duplicated.
+Ultimate_Parent_Name,Report the legal name of the ultimate parent entity to which the obligor belongs. Used for aggregation of exposure across related entities.
+Affiliate_Flag,"Report a binary flag (e.g., Y/N) indicating whether the obligor is an affiliate of another legal entity in the reporting group."
+Legal_Entity_Identifier,Report the 20-character alphanumeric code assigned under the Global Legal Entity Identifier System (GLEIS) to uniquely identify the legal entity. Must conform to ISO 17442 standards.
