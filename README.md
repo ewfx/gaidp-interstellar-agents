@@ -28,13 +28,7 @@ Manual rule extraction and validation are time-consuming and error-prone. We wan
 
 
 
-🛠️ How We Built It
 
-LLM Integration: OpenAI models
-
-Data Storage: In-memory rules, file-based historical storage (moving towards DB)
-
-Frontend: Interactive UI for rule training, updates, and transaction analysis
 
 ## ⚙️ What It Does
 Automates Rule Extraction – Moves from CSV-based manual rules to LLM-driven refinement
