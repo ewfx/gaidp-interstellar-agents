@@ -319,7 +319,7 @@ A dream team of data whisperers, code crafters, and GenAI explorers 🌌💡
 | 👤 **Name** | 💼 **Role** | 🐙 **GitHub** | 🔗 **LinkedIn** |
 |:--|:--|:--|:--|
 | **Anand K Jha** | 🧩 Lead Solution Architect | [@cyberwarr10r1](https://github.com/cyberwarr10r1) | [Anand K Jha](https://www.linkedin.com/in/anandkumarjhaiam/) |
-| **Balakrishna Reddy** | 🎨 Lead Frontend Developer | [@balakrishnaga](https://github.com/balakrishnaga)) | [Balakrishna Reddy](https://linkedin.com/in/johndoe) |
+| **Balakrishna Reddy** | 🎨 Lead Frontend Developer | [@balakrishnaga](https://github.com/balakrishnaga)) | [Balakrishna Reddy](https://www.linkedin.com/in/balakrishna-reddy-g-a-2b8bb260/) |
 | **Debjyothi Roy** | 🔬 Senior Data Scientist  | [@debjroy](https://github.com/debjroy) | [Debjyothi Roy](https://www.linkedin.com/in/debjyotir2611/) |
 | **Damodar Perumalla** | 🤖 Senior ML Engineer | [@Damodar2295](https://github.com/Damodar2295) | [Damodar Perumalla](https://www.linkedin.com/in/damodar-perumallaa-b7a31387/) |
 | **Saimadhu Polamuri** | 🧠 Lead Data Scientist | [@saimadhu-polamuri](https://github.com/saimadhu-polamuri) | [Saimadhu Polamuri](https://www.linkedin.com/in/saimadhu/) |
